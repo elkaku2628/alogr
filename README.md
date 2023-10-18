@@ -1,1 +1,1 @@
-Improve Docs Modes tables (#8266)
+Fix solution functions description + integrations/openvino.md cover image update (#8170)
